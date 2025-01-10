@@ -1,13 +1,22 @@
-## 안녕하세요 extention하게 성장하는 iOS 개발자 성현주입니다.👋
+## 👋 Extention하게 성장하는 iOS 개발자 성현주입니다.
+- 함께 공부하고 지식을 공유하며 성장하는걸 좋아합니다.
+- 소통을 바탕으로 개인의 역량을 하나로 모아, 공동체의 더 큰 성과를 이끌어내기 위해 노력합니다.
+- 최근 객체지향 설계와 아키텍처에 관심을 갖고 깊이 있게 공부하고 있습니다.
 
 
-21살의 열정과 주저하지 않는 도전으로 iOS 개발의 세계를 탐구하며 성장하고 있는 신입 iOS 개발자 성현주입니다. 
+## 💼 Activities
 
-Swift부터 TCA까지,
+- **UMC 4기** (`2023.03 - 2023.08`)  
+  - 개발연합동아리 **University MakeUs Challenge(UMC)** 4기 숭실대 iOS 파트 수료
 
-학업과 실무를 병행하며 끊임없이 배우고 발전하는 과정에서 iOS 관련 기술 스터디를 주도하며 최신 기술을 실제 프로젝트에 적용하고 있습니다.
+- **[숭실대학교 IT 중앙동아리 Yourssu](https://yourssu.com/)** (`2023.03 - Present`)  
+  - iOS 파트 Lead
 
----
+- **[GDSC 3기 Soongsil Univ.](https://gdsc.community.dev/)** (`2023.10 - 2024.09`)  
+  - [Google Developer Student Clubs Soongsil Chapter](https://gdscsoongsil.pages.dev/)  
+  - Web/Mobile Member
+
+- **숭실대학교 창업동아리 시너지** (`2023.03 - 2023.12`) 
 
 ## 🛠 Skills
 
@@ -32,7 +41,6 @@ Swift부터 TCA까지,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
 ## 🌱 Education
 - 숭실대학교 소프트웨어학부 재학 중(4학기 수료)  
