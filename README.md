@@ -16,8 +16,21 @@
   - [Google Developer Student Clubs Soongsil Chapter](https://gdscsoongsil.pages.dev/)  
   - Web/Mobile Member
 
-- **숭실대학교 창업동아리 시너지** (`2023.03 - 2023.12`) 
+- **숭실대학교 창업동아리 시너지** (`2023.03 - 2023.12`)
+- **[SOPT  iOS파트 36기](https://www.sopt.org/)** (`2025.03 - 2025.08`)
+- **[SOPT Makers iOS 챕터 37기](https://makers.sopt.org/)** (`2025.08 - present`)
 
+## 📱 Project
+- [AI 기반 영어 일기 작성 서비스  Hilingual](https://github.com/Hi-lingual/Hilingual-iOS)
+- [교내 학생들을 위한 성적표 확인 서비스 숨쉴때 유세인트](https://github.com/yourssu/Soomsil-USaint-iOS)
+- [숭실대학교 커뮤니티 서비스 숨쉴때](https://github.com/yourssu/Soomsil-iOS)
+- [유어슈 동아리 디자인 시스템, YDS](https://github.com/yourssu/YDS-iOS)
+- [소프트웨어학부 통패합 반대 온라인 서명 웹사이트](https://github.com/owl1753/ssu_sw_ai_reject_campaign)
+- [오픈소스 시간표 ui 라이브러리 Univ_TimeTable](https://github.com/hye0njuoo/Univ_TimeTable)
+- [기록을 넘어 절약까지 가계부 서비스 아낀거지](https://github.com/AkkinOfficial/AKKIN_iOS)
+- [간편한 일정 조절 서비스 FLAG](https://github.com/flag-app/Flag-iOS)
+
+  
 ## 🛠 Skills
 
 ### Languages
